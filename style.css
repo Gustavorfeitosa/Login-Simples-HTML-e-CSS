@@ -1,0 +1,26 @@
+
+h1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+form {
+  font-size:20px;
+  color:black;
+  text-align: center;
+  font-family:'Courier New', Courier, monospace;
+  padding:13%;
+}
+
+button{
+  color: cadetblue;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+  font-size: 18px;
+}
+
+img {
+  position: absolute;
+  width: 110px;
+  left: 650px;
+  top: 70px;
+}
